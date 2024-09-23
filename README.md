@@ -5,5 +5,5 @@ This is a full Stock market analysis Dashboard with:
 #### 3. Fundamental Analysis
 #### 4. Sentimental Analysis
 
-Also note that to the command to run the dashboard is:
+Also note that to the command to run the dashboard is: \
            streamlit run .\dashboard.py
